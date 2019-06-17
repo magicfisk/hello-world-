@@ -12,7 +12,7 @@ For PKU-Xmeida dataset:
 hashdim represents the length of hash codes, gpuid represts the index of gpu
 
 # Tips: 
-You can download the data in ~/media from [download](https://pan.baidu.com/s/1VDDfEQDeCQKqBHEU8Xav-Q) pw:0q8o
+You can download the data in ~/media from [download Link](https://pan.baidu.com/s/1VDDfEQDeCQKqBHEU8Xav-Q) pw:0q8o
 
 For codes for 2-media datasets, please refer to our [AAAI paper](https://github.com/PKU-ICST-MIPL/UGACH_AAAI2018).
 
